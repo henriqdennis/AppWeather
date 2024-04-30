@@ -2,6 +2,7 @@
 <p align="center">
 	<img width="470" src="Weather/assets/assets_to_readme/amostra.gif">
 </p>
+
 ## Funcionalidades:
 
 - **Entrada de Cidade:**
