@@ -1,4 +1,5 @@
-## PREVISÃO DO TEMPO
+## Previsão do tempo
+  - Este aplicativo é uma simples aplicação de previsão do tempo para dispositivos móveis. Ele permite aos usuários consultar a previsão meteorológica de diferentes cidades ao redor do mundo. Basta inserir o nome da cidade desejada na barra de pesquisa e pressionar o ícone de busca ou a tecla "Enter" para receber informações atualizadas sobre a temperatura e as condições climáticas da cidade selecionada.
 <p align="center">
 	<img width="470" src="Weather/assets/assets_to_readme/amostra.gif">
 </p>
